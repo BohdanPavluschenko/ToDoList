@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(548,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (to do list.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\bpavl\source\repos\to do list\to do list\functions.hpp(74,41): warning C4003: not enough arguments for function-like macro invocation 'max'
+  (compiling source file 'Source.cpp')
+  
+C:\Users\bpavl\source\repos\to do list\to do list\functions.hpp(74,41): error C2589: '(': illegal token on right side of '::'
+  (compiling source file 'Source.cpp')
+  
+C:\Users\bpavl\source\repos\to do list\to do list\functions.hpp(74,41): error C2059: syntax error: ')'
+  (compiling source file 'Source.cpp')
+  
+C:\Users\bpavl\source\repos\to do list\to do list\functions.hpp(74,52): error C2059: syntax error: ')'
+  (compiling source file 'Source.cpp')
+  
+C:\Users\bpavl\source\repos\to do list\to do list\Source.cpp(54,42): warning C4003: not enough arguments for function-like macro invocation 'max'
+C:\Users\bpavl\source\repos\to do list\to do list\Source.cpp(54,42): error C2589: '(': illegal token on right side of '::'
+C:\Users\bpavl\source\repos\to do list\to do list\Source.cpp(54,42): error C2059: syntax error: ')'
+C:\Users\bpavl\source\repos\to do list\to do list\Source.cpp(54,53): error C2059: syntax error: ')'
